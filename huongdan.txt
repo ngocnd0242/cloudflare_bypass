@@ -1,0 +1,7 @@
+1) Cài đặt python
+https://www.python.org/downloads/
+2) Cài đặt cfscrape
+pip install cfscrape
+3) chmod +x cloudflare_bypass.py
+3) Thực hiện lệnh
+php demo.php > output.html
